@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "soword"
+version = "0.1.0"
+description = ""
+authors = ["蒙奇_D_路飞 <2045705885@qq.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
